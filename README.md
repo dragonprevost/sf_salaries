@@ -1,4 +1,4 @@
-#San Francisco Salary Analysis
+# San Francisco Salary Analysis
 An application of machine learning, data analysis, and visualisation.
 
 This project uses python 3.5 or greater. 
